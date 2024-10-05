@@ -5,14 +5,14 @@ The **Restaurant Reviews NLP Analysis** project aims to leverage Natural Languag
 
 This project uses a dataset containing of restaurant reviews. The goal is to develop a predictive model that can classify reviews based on sentiment, helping restaurant managers understand customer satisfaction levels, identify strengths and weaknesses, and ultimately enhance the dining experience.
 
-## Technologies Used
+## 🛠️ Technologies Used </>
 - **Python**: The primary programming language utilized for data manipulation and model building.
 - **Pandas**: A powerful data analysis library used for data manipulation and analysis.
 - **Scikit-learn**: A machine learning library used for creating and evaluating predictive models.
 - **NLTK (Natural Language Toolkit)**: A library used for various NLP tasks, including text preprocessing and tokenization.
 - **Matplotlib/Seaborn**: Libraries used for data visualization to better understand the data and model performance.
 
-## Project Steps
+## Project Steps 👣
 
 1. **Data Loading**: The dataset containing restaurant reviews is loaded into the environment for analysis.
 2. **Data Exploration**: The dataset is explored to understand its structure, distribution of sentiments, and any missing values that need addressing.
