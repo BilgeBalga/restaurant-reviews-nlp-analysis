@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Reviews NLP Analysis 🍽️
+# 🍽️ Restaurant Reviews NLP Analysis 🍴
 
 ## Project Overview
 The **Restaurant Reviews NLP Analysis** project aims to leverage Natural Language Processing (NLP) techniques to analyze customer reviews of restaurants. In today's digital age, online reviews are crucial for businesses, influencing potential customers' choices. By categorizing these reviews as positive or negative, restaurant owners can gain valuable insights into customer sentiment and improve their services accordingly.
