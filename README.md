@@ -25,7 +25,7 @@ This project uses a dataset containing of restaurant reviews. The goal is to dev
 9. **Evaluation of Results**: The model's performance is assessed using accuracy scores, confusion matrices, and classification reports to gauge its effectiveness.
 
 ## 🏆 Results 🏆
-At the conclusion of the project, the model achieved an accuracy score of <font color="green"> **78.80%** </font> on the test dataset. This score indicates a reasonably good performance in classifying reviews based on sentiment. 
+At the conclusion of the project, the model achieved an accuracy score of **78.80%** on the test dataset. This score indicates a reasonably good performance in classifying reviews based on sentiment.
 The confusion matrix revealed that the model accurately classified a majority of the positive reviews but struggled slightly with negative reviews. The precision, recall, and F1-score metrics were also calculated to provide a more comprehensive understanding of the model's performance. 
 
 ### Insights:
